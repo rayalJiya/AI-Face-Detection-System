@@ -89,8 +89,21 @@ streamlit run app.py
 
 ## 📸 Sample Output
 
-*(Screenshots will be added here.)*
+### Streamlit Home
 
+![Streamlit Home](screenshots/streamlit-home.png)
+
+---
+
+### Face Detection Result
+
+![Detection Result](screenshots/streamlit-result.png)
+
+---
+
+### Real-Time Webcam Detection
+
+![Webcam](screenshots/webcam.png)
 ---
 
 ## 📈 Future Improvements
